@@ -7,7 +7,7 @@ import emojipedia from './emojipedia' //#file exported
 let emoji= emojipedia.map(item=><dl>{item.icon}</dl>)
 
 //dkljlkdfgnklngflkj
-
+const hello ='hello'
 const entry = (
 <div className="term">
 {emojipedia.map(item =>{
