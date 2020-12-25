@@ -6,7 +6,7 @@ import emojipedia from './emojipedia' //#file exported
 //!atamurad screen
 let emoji= emojipedia.map(item=><dl>{item.icon}</dl>)
 
-
+//dkljlkdfgnklngflkj
 
 const entry = (
 <div className="term">
